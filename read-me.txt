@@ -6,4 +6,6 @@ Hope you'll enjoy my Github.
 
 I make a change to see an another functionnality of Git.
 
+Another change (number 2).
+
 Bye :)
