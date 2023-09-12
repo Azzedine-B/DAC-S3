@@ -1,0 +1,7 @@
+Hello, 
+
+My name is Azzedine, and i'm learning Git basics.
+
+Hope you'll enjoy my Github.
+
+Bye :)
