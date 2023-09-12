@@ -4,4 +4,6 @@ My name is Azzedine, and i'm learning Git basics.
 
 Hope you'll enjoy my Github.
 
+I make a change to see an another functionnality of Git.
+
 Bye :)
